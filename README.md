@@ -1,2 +1,2 @@
 # randomColor
-made using javascript.
+https://amanaswal.github.io/randomColor/
